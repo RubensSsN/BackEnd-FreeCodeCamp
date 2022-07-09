@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Rubens Samuel",
-  "keywords": ["freecodecamp", "studyng", "backend"],
-  "description": "This project its my first contact to the backend",
-  "license": "Maverick corporations",
-  "version": "1.0.0",
+	"author": "Rubens Samuel",
+	"keywords": ["freecodecamp", "studyng", "backend"],
+	"description": "This project its my first contact to the backend",
+	"license": "Maverick corporations",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
